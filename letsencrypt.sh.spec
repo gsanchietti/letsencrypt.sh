@@ -14,7 +14,7 @@ Requires:	openssl
 letsencrypt/acme client implemented as a shell-script
 
 %prep
-%setup -n letsencrypt.sh-master
+%setup
 
 
 %build
